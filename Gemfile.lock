@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     ast (1.0.2)
-    json (1.7.5)
+    json (2.5.1)
     mixlib-cli (1.2.2)
     parser (2.0.0.beta4)
       ast (~> 1.0)
